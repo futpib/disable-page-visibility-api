@@ -1,0 +1,13 @@
+{
+  "name": "disable-page-visibility-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "PUBLIC DOMAIN",
+  "packageManager": "yarn@3.2.0",
+  "webExt": {
+    "sourceDir": "."
+  },
+  "devDependencies": {
+    "web-ext": "^6.8.0"
+  }
+}
